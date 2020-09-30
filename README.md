@@ -1,6 +1,8 @@
 # Budget Tracker (PWA)
  ## Gif
  ![Alt Text](public/icons/budgettracker.gif)
+
+
  #### Image
   ![ApplicationImage](public/icons/screenshot.png)
 
