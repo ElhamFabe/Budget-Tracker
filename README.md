@@ -1,5 +1,7 @@
 # Budget Tracker (PWA)
- ## Image
+ ## Gif
+ ![Alt Text](public/icons/budgettracker.gif)
+ #### Image
   ![ApplicationImage](public/icons/screenshot.png)
 
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
